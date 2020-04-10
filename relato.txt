@@ -7,3 +7,5 @@
 4-Estudiante
 
 5-Color: Negro
+
+6-hooby: Leer
