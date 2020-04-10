@@ -1,0 +1,5 @@
+1-Nombre: Diego Triana
+
+2-Edad: 33años
+
+3-Ciudad: Bogotá
