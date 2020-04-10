@@ -4,8 +4,4 @@
 
 3-Ciudad: Bogotá
 
-4-Estudiante
-
-5-Color: Negro
-
-6-hooby: Leer
+Fin del ejercicio
