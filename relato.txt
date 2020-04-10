@@ -3,3 +3,5 @@
 2-Edad: 33años
 
 3-Ciudad: Bogotá
+
+4-Estudiante
