@@ -7,3 +7,5 @@ Ejercicio del curso de git Platzi
 
 Creado por un gran Team
 
+Incluyendo ejemplos de windows, linux.
+
